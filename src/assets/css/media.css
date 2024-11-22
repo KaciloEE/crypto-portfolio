@@ -1,0 +1,10 @@
+@media (max-width: 800px) {
+  .portfolio-view {
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(3, auto);
+    grid-template-areas: "line-chart" "add-coin-form" "portfolio-coins";
+    gap: 10px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
